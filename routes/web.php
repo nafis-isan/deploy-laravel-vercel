@@ -23,6 +23,22 @@ Route::get('/Gibran', function () {
     return view('Gibran');
 });
 
+Route::get('/Nafis', function () {
+    return view('Nafis');
+});
+
+Route::get('/gazlan', function () {
+    return view('gazlan');
+});
+
+Route::get('/dhiya', function () {
+    return view('dhiya');
+});
+
+Route::get('/zefi', function () {
+    return view('zefi');
+});
+
 Route::get('/dashboard', function () {
     return view('dashboard');
 })->middleware(['auth', 'verified'])->name('dashboard');
