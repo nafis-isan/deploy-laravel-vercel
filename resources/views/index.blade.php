@@ -67,35 +67,35 @@
         <div class="card">
             <img src="img/img.jpeg.jpeg" alt="Foto Orang 5">
             <h3>zefi</h3>
-            <a href="zefi.html">Lihat Biodata</a>
+            <a href="/zefi">Lihat Biodata</a>
         </div>
 
         <!-- Orang 2 -->
         <div class="card">
             <img src="img/dhiya.jpg" alt="Foto Orang 2">
             <h3>Orang 2</h3>
-            <a href="dhiya.html">Lihat Biodata</a>
+            <a href="/dhiya">Lihat Biodata</a>
         </div>
 
         <!-- Orang 3 -->
         <div class="card">
             <img src="img/Gibran.png" alt="Foto Orang 3">
             <h3>M Gibran</h3>
-            <a href="Gibran.html">Lihat Biodata</a>
+            <a href="/Gibran">Lihat Biodata</a>
         </div>
 
         <!-- Orang 4 -->
         <div class="card">
             <img src="img/profilegazlan.gif" alt="Foto Orang 4">
             <h3>Gazlan Hazieq El Akbar</h3>
-            <a href="gazlan.html">Lihat Biodata</a>
+            <a href="/gazlan">Lihat Biodata</a>
         </div>
 
         <!-- Orang 5 -->
         <div class="card">
             <img src="img/nafis.jpg" alt="Foto Orang 5">
             <h3>Nafis Ikhsan</h3>
-            <a href="Nafis.html">Lihat Biodata</a>
+            <a href="/Nafis">Lihat Biodata</a>
         </div>
     </div>
 </body>
