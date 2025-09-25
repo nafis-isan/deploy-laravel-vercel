@@ -86,7 +86,7 @@
 
         <!-- Orang 4 -->
         <div class="card">
-            <img src="img/profilegazlan.gif" alt="Foto Orang 4">
+            <img src="{{asset(img/profilegazlan.gif)}}" alt="Foto Orang 4">
             <h3>Gazlan Hazieq El Akbar</h3>
             <a href="/gazlan">Lihat Biodata</a>
         </div>
