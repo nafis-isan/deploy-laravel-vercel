@@ -65,35 +65,35 @@
     <div class="container">
         <!-- Orang 1 -->
         <div class="card">
-            <img src="{{asset('img/img.jpeg.jpeg')}}" alt="Foto Orang 5">
+            <img src="{{ asset('img/img.jpeg.jpeg') }}" alt="Foto Orang 5">
             <h3>zefi</h3>
             <a href="/zefi">Lihat Biodata</a>
         </div>
 
         <!-- Orang 2 -->
         <div class="card">
-            <img src="{{asset('img/dhiya.jpg')}}" alt="Foto Orang 2">
+            <img src="{{ asset('img/dhiya.jpg') }}" alt="Foto Orang 2">
             <h3>Orang 2</h3>
             <a href="/dhiya">Lihat Biodata</a>
         </div>
 
         <!-- Orang 3 -->
         <div class="card">
-            <img src="{{asset('img/Gibran.png')}}" alt="Foto Orang 3">
+            <img src="{{asset ('img/Gibran.png') }}" alt="Foto Orang 3">
             <h3>M Gibran</h3>
             <a href="/Gibran">Lihat Biodata</a>
         </div>
 
         <!-- Orang 4 -->
         <div class="card">
-            <img src="{{asset('img/profilegazlan.gif')}}" alt="Foto Orang 4">
+            <img src="{{ asset('img/profilegazlan.gif') }}" alt="Foto Orang 4">
             <h3>Gazlan Hazieq El Akbar</h3>
             <a href="/gazlan">Lihat Biodata</a>
         </div>
 
         <!-- Orang 5 -->
         <div class="card">
-            <img src="{{asset('img/nafis.jpg')}}" alt="Foto Orang 5">
+           <img src="{{ asset('img/nafis.jpg') }}" alt="Foto orang ke 5">
             <h3>Nafis Ikhsan</h3>
             <a href="/Nafis">Lihat Biodata</a>
         </div>

@@ -159,7 +159,7 @@
 <body>
   <!-- Foto Profil -->
   <div class="profile-pic">
-    <img src="{{asset('img/nafis.jpg')}}" alt="Foto Profil">
+    <img src="{{ asset('img/nafis.jpg') }}" alt="Foto Profil">
   </div>
 
   <!-- Nama & Deskripsi -->
@@ -188,7 +188,7 @@
     <a href="https://github.com/nafis-isan">GitHub</a>
   </div>
   <div class="back">
-      <a href="index.html">⬅ Kembali ke Halaman Utama</a>
-    </div>
+      <a href="{{ url('index') }}">⬅ Kembali ke Halaman Utama</a>
+  </div>
 </body>
 </html>

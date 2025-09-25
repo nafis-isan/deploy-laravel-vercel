@@ -106,7 +106,7 @@
 <body>
   <div class="card">
     <div class="header">
-      <img src="{{asset('img/dhiya.jpg')}}" alt="Foto Profil">
+      <img src="{{ asset('img/dhiya.jpg') }}" alt="Foto Profil">
       <div>
         <h2>Dhiya Ali Malik Dzulfiqar</h2>
         <p>Siswa XI PPL 1 | SMKN</p>
