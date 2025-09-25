@@ -125,7 +125,7 @@
         <tr><td>Motivasi</td><td>“Saya ingin mengembangkan diri, menimba ilmu, dan memberi manfaat bagi orang lain.”</td></tr>
       </table>
       <div class="back">
-        <a href="index.html">⬅ Kembali ke Halaman Utama</a>
+        <a href="/">⬅ Kembali ke Halaman Utama</a>
       </div>
     </div>
     <div class="footer">

@@ -262,7 +262,7 @@
             </div>
         </div>
         <div class="back">
-      <a href="index.html">⬅ Kembali ke Halaman Utama</a>
+      <a href="/">⬅ Kembali ke Halaman Utama</a>
     </div>
     </div>
 </body>

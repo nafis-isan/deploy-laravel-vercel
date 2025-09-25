@@ -188,7 +188,7 @@
     <a href="https://github.com/nafis-isan">GitHub</a>
   </div>
   <div class="back">
-      <a href="{{ url('index') }}">⬅ Kembali ke Halaman Utama</a>
+      <a href="/">⬅ Kembali ke Halaman Utama</a>
   </div>
 </body>
 </html>

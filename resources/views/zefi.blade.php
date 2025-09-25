@@ -102,7 +102,7 @@
         <tr><td>Motivasi</td><td>Saya ingin mengabdi pada bangsa dan negara melalui TNI AD.</td></tr>
       </table>
       <div class="back">
-      <a href="index.html">⬅ Kembali ke Halaman Utama</a>
+      <a href="/">⬅ Kembali ke Halaman Utama</a>
     </div>
     </div>
     <div class="footer">
