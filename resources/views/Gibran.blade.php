@@ -120,7 +120,7 @@
 
   <div class="container">
     <div class="foto">
-      <img src="img/Gibran.png" alt="Foto Orang 3">
+      <img src="{{asset('img/Gibran.png')}}" alt="Foto Orang 3">
     </div>
     <h2>M Gibran</h2>
     <div class="biodata">

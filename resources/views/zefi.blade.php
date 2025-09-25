@@ -83,7 +83,7 @@
 <body>
   <div class="card">
     <div class="header">
-      <img src="img/img.jpeg.jpeg" alt="Foto Profil">
+      <img src="{{asset('img/img.jpeg.jpeg')}}" alt="Foto Profil">
       <div>
         <h2>Nama Lengkap Anda</h2>
         <p><em>Calon Siswa TNI AD</em></p>

@@ -159,7 +159,7 @@
 <body>
   <!-- Foto Profil -->
   <div class="profile-pic">
-    <img src="img/nafis.jpg" alt="Foto Profil">
+    <img src="{{asset('img/nafis.jpg')}}" alt="Foto Profil">
   </div>
 
   <!-- Nama & Deskripsi -->

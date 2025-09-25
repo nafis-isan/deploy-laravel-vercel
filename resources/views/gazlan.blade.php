@@ -221,7 +221,7 @@
     <div class="container">
         <div class="profile-section">
             <div class="profile-photo">
-                <img src="img/profilegazlan.gif" alt="">
+                <img src="{{asset('img/profilegazlan.gif')}}" alt="">
             </div>
             <h1 class="name">Gazlan Hazieq El Akbar</h1>
             <p class="subtitle">Manusia Biasa</p>
